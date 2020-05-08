@@ -1,5 +1,5 @@
 # ReadingLogFiles
-In this project I have learned how to analyzed web server log files
+In this project I have learned how to analyzed apache documentation web server log files
  - How many unique IP adresses
  - Information about visited web sites
 
